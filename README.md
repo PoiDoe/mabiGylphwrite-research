@@ -1,7 +1,7 @@
 # mabiGylphwrite-research
 just some research into gylphwrite while i was bored
 see below files:
-- [[preset effect breakdowns]]
+- [a relative link](preset effect breakdowns..md)
 
 
 Current outcome of research
