@@ -1,5 +1,3 @@
-![[magiccirclepreset 1.xml]]
-
 ID:
 1 = line
 2 = empty circle
@@ -22,7 +20,7 @@ ID:
 18 = rune 5
 
 
-![[Glyphboard 1.jpg]]
+![Glyphboard 1](https://user-images.githubusercontent.com/20039012/151747013-def9ece3-0a2a-4838-bb68-69301be5f528.jpg)
 
 0,0 is center of gplyh
 PosX/Y = -200 ~ 200
@@ -31,14 +29,6 @@ EndY/X = -200 ~ 200
 Rot = 0.00 ~ 359.99
 Scale = 0.01 ~ 1.69 (depends on shape)
 Flip = true/false
-
-
-
-
-
-
-
-
 
 
 //escaped
@@ -66,8 +56,12 @@ Flip = true/false
 //empty glyh
 "&lt;Effects&gt;&#xD;&#xA; &lt;/Effects&gt;"
 
-![[Client_S7KDjfApO4.mp4]]
-![[Example 1.jpg]]
+
+
+https://user-images.githubusercontent.com/20039012/151747036-43b964a4-54a4-4fc8-96d4-02a91ca3c873.mp4
+
+![Example 1](https://user-images.githubusercontent.com/20039012/151747041-204b0da5-a03e-4845-961c-8bf158bbab07.jpg)
+
 //full preset entry
 	<Preset Id="1" Name="PoiGlyph1" UI="data/gfx/gui/Magigraph/GUI_magigraph_icon.dds" PositionX="5" PositionY="2" Argument="&lt;Effects&gt;&#xD;&#xA;&lt;Effect ID=&quot;2&quot; PosX=&quot;0&quot; PosY=&quot;0&quot; Rot=&quot;0.00&quot; Scale=&quot;1.69&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;2&quot; PosX=&quot;0&quot; PosY=&quot;0&quot; Rot=&quot;0.00&quot; Scale=&quot;0.50&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;13&quot; PosX=&quot;0&quot; PosY=&quot;0&quot; Rot=&quot;0.00&quot; Scale=&quot;0.48&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;2&quot; PosX=&quot;150&quot; PosY=&quot;0&quot; Rot=&quot;0.00&quot; Scale=&quot;0.36&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;17&quot; PosX=&quot;150&quot; PosY=&quot;0&quot; Rot=&quot;90.00&quot; Scale=&quot;0.30&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;2&quot; PosX=&quot;-150&quot; PosY=&quot;0&quot; Rot=&quot;0.00&quot; Scale=&quot;0.36&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;15&quot; PosX=&quot;-150&quot; PosY=&quot;0&quot; Rot=&quot;270.00&quot; Scale=&quot;0.30&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;2&quot; PosX=&quot;0&quot; PosY=&quot;-150&quot; Rot=&quot;0.00&quot; Scale=&quot;0.36&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;16&quot; PosX=&quot;0&quot; PosY=&quot;-150&quot; Rot=&quot;0.00&quot; Scale=&quot;0.30&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;2&quot; PosX=&quot;0&quot; PosY=&quot;150&quot; Rot=&quot;0.00&quot; Scale=&quot;0.36&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;14&quot; PosX=&quot;0&quot; PosY=&quot;150&quot; Rot=&quot;180.00&quot; Scale=&quot;0.30&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;2&quot; PosX=&quot;-106&quot; PosY=&quot;-106&quot; Rot=&quot;0.00&quot; Scale=&quot;0.36&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;18&quot; PosX=&quot;-106&quot; PosY=&quot;-106&quot; Rot=&quot;315.00&quot; Scale=&quot;0.30&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;2&quot; PosX=&quot;106&quot; PosY=&quot;106&quot; Rot=&quot;0.00&quot; Scale=&quot;0.36&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;18&quot; PosX=&quot;106&quot; PosY=&quot;106&quot; Rot=&quot;135.00&quot; Scale=&quot;0.30&quot; Flip=&quot;false&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;-144&quot; StartY=&quot;-41&quot; EndX=&quot;-131&quot; EndY=&quot;-73&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;-73&quot; StartY=&quot;-131&quot; EndX=&quot;-41&quot; EndY=&quot;-144&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;144&quot; StartY=&quot;41&quot; EndX=&quot;131&quot; EndY=&quot;73&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;73&quot; StartY=&quot;131&quot; EndX=&quot;41&quot; EndY=&quot;144&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;-109&quot; StartY=&quot;0&quot; EndX=&quot;-58&quot; EndY=&quot;0&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;109&quot; StartY=&quot;0&quot; EndX=&quot;58&quot; EndY=&quot;0&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;0&quot; StartY=&quot;-109&quot; EndX=&quot;0&quot; EndY=&quot;-58&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;0&quot; StartY=&quot;109&quot; EndX=&quot;0&quot; EndY=&quot;58&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;0&quot; StartY=&quot;-100&quot; EndX=&quot;70&quot; EndY=&quot;-100&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;100&quot; StartY=&quot;0&quot; EndX=&quot;100&quot; EndY=&quot;-70&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;70&quot; StartY=&quot;-100&quot; EndX=&quot;100&quot; EndY=&quot;-70&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;0&quot; StartY=&quot;100&quot; EndX=&quot;-70&quot; EndY=&quot;100&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;-100&quot; StartY=&quot;0&quot; EndX=&quot;-100&quot; EndY=&quot;70&quot; /&gt;&#xD;&#xA;&lt;Effect ID=&quot;1&quot; StartX=&quot;-70&quot; StartY=&quot;100&quot; EndX=&quot;-100&quot; EndY=&quot;70&quot; /&gt;&#xD;&#xA;&lt;/Effects&gt;"/>
 
