@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "0e99116b590c26ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "41fb22d7b0040b21",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "preset effect breakdowns.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "921bfc93817cdaf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "98e259820f79f1a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e777b50888e4f07b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d68004056526bca6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fbb04112b40dd2b9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b7b7be10b4f79cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f24eaf4b8f07cb9a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "preset effect breakdowns.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "41fb22d7b0040b21",
+  "lastOpenFiles": [
+    "preset effect breakdowns.md",
+    "Client_S7KDjfApO4.mp4"
+  ]
+}
